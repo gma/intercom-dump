@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  intercom:
+    build: .
+    volumes:
+      - '.:/usr/src/app'
+    env_file:
+      - .env.secrets
