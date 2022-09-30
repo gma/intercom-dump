@@ -1,5 +1,12 @@
-README
-======
+Intercom Dump
+=============
+
+This is a quick script that I knocked up to extract all the messages stored in an account on [Intercom]. It's useful if you're moving away from Intercom and want to keep a copy of your data.
+
+[Intercom]: https://intercom.com
+
+Install
+-------
 
 To setup the Docker image run:
 
